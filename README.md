@@ -15,3 +15,12 @@ Before developing the selection criteria, there is to need to sanitize the data 
 ● Hero Product 1 #ratings and Hero Product 2 #ratings - these 2 columns give the number of ratings of the 2 'hero products' or best selling products of this seller.
 
 In this python file, plotly is used, therefore to view the graphs, refer this link, https://nbviewer.jupyter.org/github/IshtyM/Analysis-of-Best-Sellers-/blob/main/Analysis%20of%20Best%20Sellers.ipynb
+
+### Libraries Used:
+Pandas, Numpy, Matplotlib, Seaborn, Plotly
+
+### Programing Language
+Python
+
+### IDE Used
+Jupyter Notebook
